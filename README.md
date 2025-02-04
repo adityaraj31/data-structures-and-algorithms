@@ -1,12 +1,12 @@
-Data Structures & Algorithms (DSA) 🚀
+##Data Structures & Algorithms (DSA) 🚀
 
-📌 Overview
+#📌 Overview
 
 This repository contains implementations and explanations of various Data Structures and Algorithms (DSA) in C++. It is designed to help students and professionals strengthen their problem-solving skills.
 
-📚 Topics Covered
+#📚 Topics Covered
 
-1️⃣ Data Structures
+#1️⃣ Data Structures
 
 Arrays
 
@@ -24,7 +24,7 @@ Trees (Binary Trees, BST, AVL, Trie, Segment Tree, etc.)
 
 Graphs (Adjacency List, Matrix, DFS, BFS, Dijkstra, etc.)
 
-2️⃣ Algorithms
+#2️⃣ Algorithms
 
 Sorting (Bubble, Selection, Insertion, Merge, Quick, Heap Sort, etc.)
 
@@ -40,7 +40,7 @@ Graph Algorithms (Dijkstra, Bellman-Ford, Floyd Warshall, etc.)
 
 Divide & Conquer (Merge Sort, Quick Sort, etc.)
 
-📌 Roadmap
+#📌 Roadmap
 
 Start with Basics → Arrays, Strings, Recursion
 
@@ -60,7 +60,7 @@ CodeForces
 
 HackerRank
 
-🤝 Contributing
+#🤝 Contributing
 
 Fork the repository
 
@@ -74,8 +74,8 @@ Push to GitHub: git push origin feature-name
 
 Create a pull request
 
-📜 License
+#📜 License
 
 This project is open-source and available under the MIT License.
 
-🚀 Happy Coding & Keep Learning! 💡
+#🚀 Happy Coding & Keep Learning! 💡
