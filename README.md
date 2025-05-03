@@ -50,32 +50,4 @@ Master Algorithms → Sorting, Searching, DP, Graphs
 
 Practice Questions → Solve problems from LeetCode, Codeforces, and GFG
 
-<h2>🔗 Useful Resources</h2>
 
-GeeksforGeeks
-
-LeetCode
-
-CodeForces
-
-HackerRank
-
-<h2>🤝 Contributing</h2>
-
-Fork the repository
-
-Clone your forked repo: git clone https://github.com/adityaraj31/data_structure_and_algorithm.git
-
-Create a new branch: git checkout -b feature-name
-
-Commit your changes: git commit -m "Added new algorithm"
-
-Push to GitHub: git push origin feature-name
-
-Create a pull request
-
-<h2>📜 License</h2>
-
-This project is open-source and available under the MIT License.
-
-<h1>🚀 Happy Coding & Keep Learning! 💡</h1>
